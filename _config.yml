@@ -8,14 +8,14 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jiaming Song
-tagline: Ph.D. Student @ Stanford University
+title : Dhruv Kumar
+tagline: Co-founder, primarykey.io and corporatecabs.io
 author :
-  name : Jiaming
-  email : jiaming.tsong@gmail.com
-  github : jiamings
-  twitter : jiamingso
-  feedburner : feedname
+  name : Dhruv Kumar
+  email : gargdhruv36@gmail.com
+  github : kudhru
+#  twitter : jiamingso
+#  feedburner : feedname
 
 markdown: kramdown
 highlighter: rouge
@@ -37,7 +37,7 @@ gems:
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://jiamings.github.io
+production_url : http://kudhru.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
